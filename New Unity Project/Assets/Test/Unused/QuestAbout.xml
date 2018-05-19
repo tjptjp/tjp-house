@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SOL>
+  <Quest QuestNum="1" TeamNum="0" bool="False" Year="2018" Month="5" Day="5" Hour="18" Minute="18" Second="32">  </Quest>
+  <Quest QuestNum="2" TeamNum="999" bool="False" Year="2088" Month="1" Day="1" Hour="1" Minute="1" Second="1">  </Quest>
+  <Quest QuestNum="3" TeamNum="999" bool="False" Year="2088" Month="1" Day="1" Hour="1" Minute="1" Second="1">  </Quest>
+  <Quest QuestNum="4" TeamNum="999" bool="False" Year="2088" Month="1" Day="1" Hour="1" Minute="1" Second="1">  </Quest>
+  <Quest QuestNum="5" TeamNum="999" bool="False" Year="2088" Month="1" Day="1" Hour="1" Minute="1" Second="1">  </Quest>
+  <Quest QuestNum="6" TeamNum="999" bool="False" Year="2088" Month="1" Day="1" Hour="1" Minute="1" Second="1">  </Quest>
+  <Quest QuestNum="7" TeamNum="999" bool="False" Year="2088" Month="1" Day="1" Hour="1" Minute="1" Second="1">  </Quest>
+  <Quest QuestNum="8" TeamNum="999" bool="False" Year="2088" Month="1" Day="1" Hour="1" Minute="1" Second="1">  </Quest>
+  <Quest QuestNum="9" TeamNum="999" bool="False" Year="2088" Month="1" Day="1" Hour="1" Minute="1" Second="1">  </Quest>
+</SOL>
