@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllEquip>
+  <Weapon WK="Str">
+
+    <Equip Name="石剑" Rare="W" UserLevel="1" Hp="0" Str="5" Spd="0" Int="0" Luc="0" ItemNum="#01W001"/>
+    <Equip Name="石剑" Rare="G" UserLevel="1" Hp="0" Str="7" Spd="0" Int="0" Luc="0" ItemNum="#01G001"/>
+    <Equip Name="石剑" Rare="B" UserLevel="1" Hp="0" Str="10" Spd="0" Int="0" Luc="0" ItemNum="#01B001"/>
+
+    <Equip Name="砍迦拉投掷斧" Rare="W" UserLevel="5" Hp="0" Str="9" Spd="0" Int="0" Luc="0" ItemNum="#01W002"/>
+    <Equip Name="砍迦拉投掷斧" Rare="G" UserLevel="5" Hp="0" Str="13" Spd="0" Int="0" Luc="0" ItemNum="#01G002"/>
+    <Equip Name="砍迦拉投掷斧" Rare="B" UserLevel="5" Hp="0" Str="17" Spd="0" Int="0" Luc="0" ItemNum="#01B002"/>
+
+    <Equip Name="精钢剑" Rare="W" UserLevel="10" Hp="0" Str="17" Spd="0" Int="0" Luc="0" ItemNum="#01W003"/>
+    <Equip Name="精钢剑" Rare="G" UserLevel="10" Hp="0" Str="23" Spd="0" Int="0" Luc="0" ItemNum="#01G003"/>
+    <Equip Name="精钢剑" Rare="B" UserLevel="10" Hp="0" Str="28" Spd="0" Int="0" Luc="0" ItemNum="#01B003"/>
+    <Equip Name="精钢剑" Rare="P" UserLevel="10" Hp="0" Str="35" Spd="0" Int="0" Luc="0" ItemNum="#01P003"/>
+    <Equip Name="精钢剑" Rare="R" UserLevel="10" Hp="0" Str="44" Spd="0" Int="0" Luc="0" ItemNum="#01R003"/>
+
+    <Equip Name="袖刀" Rare="W" UserLevel="1" Hp="0" Str="0" Spd="4" Int="0" Luc="0" ItemNum="#02W001"/>
+    <Equip Name="袖刀" Rare="G" UserLevel="1" Hp="0" Str="0" Spd="6" Int="0" Luc="0" ItemNum="#02G001"/>
+    <Equip Name="袖刀" Rare="B" UserLevel="1" Hp="0" Str="0" Spd="8" Int="0" Luc="0" ItemNum="#02B001"/>
+
+    <Equip Name="木制弩" Rare="W" UserLevel="5" Hp="0" Str="0" Spd="8" Int="0" Luc="0" ItemNum="#02W002"/>
+    <Equip Name="木制弩" Rare="G" UserLevel="5" Hp="0" Str="0" Spd="11" Int="0" Luc="0" ItemNum="#02G002"/>
+    <Equip Name="木制弩" Rare="B" UserLevel="5" Hp="0" Str="0" Spd="15" Int="0" Luc="0" ItemNum="#02B002"/>
+
+    <Equip Name="手里剑" Rare="W" UserLevel="10" Hp="0" Str="0" Spd="15" Int="0" Luc="0" ItemNum="#02W003"/>
+    <Equip Name="手里剑" Rare="G" UserLevel="10" Hp="0" Str="0" Spd="21" Int="0" Luc="0" ItemNum="#02G003"/>
+    <Equip Name="手里剑" Rare="B" UserLevel="10" Hp="0" Str="0" Spd="27" Int="0" Luc="0" ItemNum="#02B003"/>
+    <Equip Name="手里剑" Rare="P" UserLevel="10" Hp="0" Str="0" Spd="35" Int="0" Luc="0" ItemNum="#02P003"/>
+    <Equip Name="手里剑" Rare="R" UserLevel="10" Hp="0" Str="0" Spd="48" Int="0" Luc="0" ItemNum="#02R003"/>
+
+    <Equip Name="木杖" Rare="W" UserLevel="1" Hp="0" Str="0" Spd="0" Int="7" Luc="0" ItemNum="#03W001"/>
+    <Equip Name="木杖" Rare="G" UserLevel="1" Hp="0" Str="0" Spd="0" Int="9" Luc="0" ItemNum="#03G001"/>
+    <Equip Name="木杖" Rare="B" UserLevel="1" Hp="0" Str="0" Spd="0" Int="11" Luc="0" ItemNum="#03B001"/>
+
+    <Equip Name="魔杖" Rare="W" UserLevel="5" Hp="0" Str="0" Spd="0" Int="11" Luc="0" ItemNum="#03W002"/>
+    <Equip Name="魔杖" Rare="G" UserLevel="5" Hp="0" Str="0" Spd="0" Int="15" Luc="0" ItemNum="#03G002"/>
+    <Equip Name="魔杖" Rare="B" UserLevel="5" Hp="0" Str="0" Spd="0" Int="18" Luc="0" ItemNum="#03B002"/>
+
+    <Equip Name="闪耀法杖" Rare="W" UserLevel="10" Hp="0" Str="0" Spd="0" Int="18" Luc="0" ItemNum="#03W003"/>
+    <Equip Name="闪耀法杖" Rare="G" UserLevel="10" Hp="0" Str="0" Spd="0" Int="25" Luc="0" ItemNum="#03G003"/>
+    <Equip Name="闪耀法杖" Rare="B" UserLevel="10" Hp="0" Str="0" Spd="0" Int="30" Luc="0" ItemNum="#03B003"/>
+    <Equip Name="闪耀法杖" Rare="P" UserLevel="10" Hp="0" Str="0" Spd="0" Int="38" Luc="0" ItemNum="#03P003"/>
+    <Equip Name="闪耀法杖" Rare="R" UserLevel="10" Hp="0" Str="0" Spd="0" Int="49" Luc="0" ItemNum="#03R003"/>
+
+
+
+
+  </Weapon>
+
+  <ShangZhuang WK="Str">
+
+    <Equip Name="锁甲" Rare="W" UserLevel="1" Hp="10" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04W001"/>
+    <Equip Name="锁甲" Rare="G" UserLevel="1" Hp="14" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04G001"/>
+    <Equip Name="锁甲" Rare="B" UserLevel="1" Hp="20" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04B001"/>
+
+    <Equip Name="板甲" Rare="W" UserLevel="5" Hp="18" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04W002"/>
+    <Equip Name="板甲" Rare="G" UserLevel="5" Hp="26" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04G002"/>
+    <Equip Name="板甲" Rare="B" UserLevel="5" Hp="34" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04B002"/>
+
+    <Equip Name="制式链甲" Rare="W" UserLevel="10" Hp="34" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04W003"/>
+    <Equip Name="制式链甲" Rare="G" UserLevel="10" Hp="46" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04G003"/>
+    <Equip Name="制式链甲" Rare="B" UserLevel="10" Hp="56" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04B003"/>
+    <Equip Name="制式链甲" Rare="P" UserLevel="10" Hp="70" Str="5" Spd="0" Int="0" Luc="0" ItemNum="#04P003"/>
+    <Equip Name="制式链甲" Rare="R" UserLevel="10" Hp="90" Str="15" Spd="0" Int="0" Luc="0" ItemNum="#04R003"/>
+
+    <Equip Name="皮甲" Rare="W" UserLevel="1" Hp="9" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05W001"/>
+    <Equip Name="皮甲" Rare="G" UserLevel="1" Hp="13" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05G001"/>
+    <Equip Name="皮甲" Rare="B" UserLevel="1" Hp="19" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05B001"/>
+
+    <Equip Name="狼皮甲" Rare="W" UserLevel="5" Hp="17" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05W002"/>
+    <Equip Name="狼皮甲" Rare="G" UserLevel="5" Hp="25" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05G002"/>
+    <Equip Name="狼皮甲" Rare="B" UserLevel="5" Hp="33" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05B002"/>
+
+    <Equip Name="黑色风衣" Rare="W" UserLevel="10" Hp="33" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05W003"/>
+    <Equip Name="黑色风衣" Rare="G" UserLevel="10" Hp="45" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05G003"/>
+    <Equip Name="黑色风衣" Rare="B" UserLevel="10" Hp="55" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#05B003"/>
+    <Equip Name="黑色风衣" Rare="P" UserLevel="10" Hp="69" Str="0" Spd="5" Int="0" Luc="0" ItemNum="#05P003"/>
+    <Equip Name="黑色风衣" Rare="R" UserLevel="10" Hp="85" Str="0" Spd="15" Int="0" Luc="0" ItemNum="#05R003"/>
+
+    <Equip Name="长袍" Rare="W" UserLevel="1" Hp="8" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06W001"/>
+    <Equip Name="长袍" Rare="G" UserLevel="1" Hp="12" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06G001"/>
+    <Equip Name="长袍" Rare="B" UserLevel="1" Hp="17" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06B001"/>
+
+    <Equip Name="法袍" Rare="W" UserLevel="5" Hp="17" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06W002"/>
+    <Equip Name="法袍" Rare="G" UserLevel="5" Hp="22" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06G002"/>
+    <Equip Name="法袍" Rare="B" UserLevel="5" Hp="29" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06B002"/>
+
+    <Equip Name="精灵长袍" Rare="W" UserLevel="10" Hp="29" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06W003"/>
+    <Equip Name="精灵长袍" Rare="G" UserLevel="10" Hp="40" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06G003"/>
+    <Equip Name="精灵长袍" Rare="B" UserLevel="10" Hp="48" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#06B003"/>
+    <Equip Name="精灵长袍" Rare="P" UserLevel="10" Hp="60" Str="0" Spd="0" Int="8" Luc="0" ItemNum="#06P003"/>
+    <Equip Name="精灵长袍" Rare="R" UserLevel="10" Hp="75" Str="0" Spd="0" Int="19" Luc="0" ItemNum="#06R003"/>
+
+  </ShangZhuang>
+
+  <XiaZhuang WK="Str">
+
+    <Equip Name="木护膝" Rare="W" UserLevel="1" Hp="8" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07W001"/>
+    <Equip Name="木护膝" Rare="G" UserLevel="1" Hp="11" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07G001"/>
+    <Equip Name="木护膝" Rare="B" UserLevel="1" Hp="16" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07B001"/>
+
+    <Equip Name="铠靴" Rare="W" UserLevel="5" Hp="14" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07W002"/>
+    <Equip Name="铠靴" Rare="G" UserLevel="5" Hp="21" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07G002"/>
+    <Equip Name="铠靴" Rare="B" UserLevel="5" Hp="27" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07B002"/>
+
+    <Equip Name="邮筒靴" Rare="W" UserLevel="10" Hp="27" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07W003"/>
+    <Equip Name="邮筒靴" Rare="G" UserLevel="10" Hp="36" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07G003"/>
+    <Equip Name="邮筒靴" Rare="B" UserLevel="10" Hp="45" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#07B003"/>
+    <Equip Name="邮筒靴" Rare="P" UserLevel="10" Hp="56" Str="2" Spd="0" Int="0" Luc="0" ItemNum="#07P003"/>
+    <Equip Name="邮筒靴" Rare="R" UserLevel="10" Hp="72" Str="10" Spd="0" Int="0" Luc="0" ItemNum="#07R003"/>
+
+    <Equip Name="皮带" Rare="W" UserLevel="1" Hp="8" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08W001"/>
+    <Equip Name="皮带" Rare="G" UserLevel="1" Hp="10" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08G001"/>
+    <Equip Name="皮带" Rare="B" UserLevel="1" Hp="15" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08B001"/>
+
+    <Equip Name="歹徒靴子" Rare="W" UserLevel="5" Hp="14" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08W002"/>
+    <Equip Name="歹徒靴子" Rare="G" UserLevel="5" Hp="50" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08G002"/>
+    <Equip Name="歹徒靴子" Rare="B" UserLevel="5" Hp="26" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08B002"/>
+
+    <Equip Name="守夜者长裤" Rare="W" UserLevel="10" Hp="26" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08W003"/>
+    <Equip Name="守夜者长裤" Rare="G" UserLevel="10" Hp="36" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08G003"/>
+    <Equip Name="守夜者长裤" Rare="B" UserLevel="10" Hp="44" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#08B003"/>
+    <Equip Name="守夜者长裤" Rare="P" UserLevel="10" Hp="55" Str="0" Spd="2" Int="0" Luc="0" ItemNum="#08P003"/>
+    <Equip Name="守夜者长裤" Rare="R" UserLevel="10" Hp="68" Str="0" Spd="10" Int="0" Luc="0" ItemNum="#08R003"/>
+
+    <Equip Name="布鞋" Rare="W" UserLevel="1" Hp="6" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09W001"/>
+    <Equip Name="布鞋" Rare="G" UserLevel="1" Hp="10" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09G001"/>
+    <Equip Name="布鞋" Rare="B" UserLevel="1" Hp="14" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09B001"/>
+
+    <Equip Name="黑麻护腿" Rare="W" UserLevel="5" Hp="14" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09W002"/>
+    <Equip Name="黑麻护腿" Rare="G" UserLevel="5" Hp="18" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09G002"/>
+    <Equip Name="黑麻护腿" Rare="B" UserLevel="5" Hp="23" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09B002"/>
+
+    <Equip Name="奥能靴" Rare="W" UserLevel="10" Hp="23" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09W003"/>
+    <Equip Name="奥能靴" Rare="G" UserLevel="10" Hp="32" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09G003"/>
+    <Equip Name="奥能靴" Rare="B" UserLevel="10" Hp="38" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#09B003"/>
+    <Equip Name="奥能靴" Rare="P" UserLevel="10" Hp="48" Str="0" Spd="0" Int="4" Luc="0" ItemNum="#09P003"/>
+    <Equip Name="奥能靴" Rare="R" UserLevel="10" Hp="60" Str="0" Spd="0" Int="13" Luc="0" ItemNum="#09R003"/>
+  </XiaZhuang>
+
+  <ShiPin WK="Str">
+
+    <Equip Name="精钢戒" Rare="W" UserLevel="1" Hp="2" Str="2" Spd="0" Int="0" Luc="0" ItemNum="#10W001"/>
+    <Equip Name="精钢戒" Rare="G" UserLevel="1" Hp="3" Str="3" Spd="0" Int="0" Luc="0" ItemNum="#10G001"/>
+    <Equip Name="精钢戒" Rare="B" UserLevel="1" Hp="5" Str="5" Spd="0" Int="0" Luc="0" ItemNum="#10B001"/>
+
+    <Equip Name="精钢手链" Rare="W" UserLevel="5" Hp="4" Str="4" Spd="0" Int="0" Luc="0" ItemNum="#10W002"/>
+    <Equip Name="精钢手链" Rare="G" UserLevel="5" Hp="6" Str="6" Spd="0" Int="0" Luc="0" ItemNum="#10G002"/>
+    <Equip Name="精钢手链" Rare="B" UserLevel="5" Hp="8" Str="8" Spd="0" Int="0" Luc="0" ItemNum="#10B002"/>
+
+    <Equip Name="钢制项链" Rare="W" UserLevel="10" Hp="8" Str="8" Spd="0" Int="0" Luc="0" ItemNum="#10W003"/>
+    <Equip Name="钢制项链" Rare="G" UserLevel="10" Hp="11" Str="11" Spd="0" Int="0" Luc="0" ItemNum="#10G003"/>
+    <Equip Name="钢制项链" Rare="B" UserLevel="10" Hp="14" Str="14" Spd="0" Int="0" Luc="0" ItemNum="#10B003"/>
+    <Equip Name="钢制项链" Rare="P" UserLevel="10" Hp="17" Str="17" Spd="0" Int="0" Luc="0" ItemNum="#10P003"/>
+    <Equip Name="钢制项链" Rare="R" UserLevel="10" Hp="22" Str="22" Spd="0" Int="0" Luc="0" ItemNum="#10R003"/>
+
+    <Equip Name="铁耳环" Rare="W" UserLevel="1" Hp="2" Str="0" Spd="2" Int="0" Luc="0" ItemNum="#11W001"/>
+    <Equip Name="铁耳环" Rare="G" UserLevel="1" Hp="3" Str="0" Spd="3" Int="0" Luc="0" ItemNum="#11G001"/>
+    <Equip Name="铁耳环" Rare="B" UserLevel="1" Hp="4" Str="0" Spd="4" Int="0" Luc="0" ItemNum="#11B001"/>
+
+    <Equip Name="铁戒" Rare="W" UserLevel="5" Hp="4" Str="0" Spd="4" Int="0" Luc="0" ItemNum="#11W002"/>
+    <Equip Name="铁戒" Rare="G" UserLevel="5" Hp="5" Str="0" Spd="5" Int="0" Luc="0" ItemNum="#11G002"/>
+    <Equip Name="铁戒" Rare="B" UserLevel="5" Hp="7" Str="0" Spd="7" Int="0" Luc="0" ItemNum="#11B002"/>
+
+    <Equip Name="风水晶项链" Rare="W" UserLevel="10" Hp="7" Str="0" Spd="7" Int="0" Luc="0" ItemNum="#11W003"/>
+    <Equip Name="风水晶项链" Rare="G" UserLevel="10" Hp="10" Str="0" Spd="10" Int="0" Luc="0" ItemNum="#11G003"/>
+    <Equip Name="风水晶项链" Rare="B" UserLevel="10" Hp="13" Str="0" Spd="13" Int="0" Luc="0" ItemNum="#11B003"/>
+    <Equip Name="风水晶项链" Rare="P" UserLevel="10" Hp="18" Str="0" Spd="18" Int="0" Luc="0" ItemNum="#11P003"/>
+    <Equip Name="风水晶项链" Rare="R" UserLevel="10" Hp="24" Str="0" Spd="24" Int="0" Luc="0" ItemNum="#11R003"/>
+
+    <Equip Name="耳羽" Rare="W" UserLevel="1" Hp="2" Str="0" Spd="0" Int="3" Luc="0" ItemNum="#12W001"/>
+    <Equip Name="耳羽" Rare="G" UserLevel="1" Hp="3" Str="0" Spd="0" Int="4" Luc="0" ItemNum="#12G001"/>
+    <Equip Name="耳羽" Rare="B" UserLevel="1" Hp="4" Str="0" Spd="0" Int="5" Luc="0" ItemNum="#12B001"/>
+
+    <Equip Name="祝福手链" Rare="W" UserLevel="5" Hp="4" Str="0" Spd="0" Int="5" Luc="0" ItemNum="#12W002"/>
+    <Equip Name="祝福手链" Rare="G" UserLevel="5" Hp="5" Str="0" Spd="0" Int="7" Luc="0" ItemNum="#12G002"/>
+    <Equip Name="祝福手链" Rare="B" UserLevel="5" Hp="7" Str="0" Spd="0" Int="9" Luc="0" ItemNum="#12B002"/>
+
+    <Equip Name="神意项链" Rare="W" UserLevel="10" Hp="7" Str="0" Spd="0" Int="9" Luc="0" ItemNum="#12W003"/>
+    <Equip Name="神意项链" Rare="G" UserLevel="10" Hp="10" Str="0" Spd="0" Int="13" Luc="0" ItemNum="#12G003"/>
+    <Equip Name="神意项链" Rare="B" UserLevel="10" Hp="13" Str="0" Spd="0" Int="16" Luc="0" ItemNum="#12B003"/>
+    <Equip Name="神意项链" Rare="P" UserLevel="10" Hp="18" Str="0" Spd="0" Int="19" Luc="0" ItemNum="#12P003"/>
+    <Equip Name="神意项链" Rare="R" UserLevel="10" Hp="24" Str="0" Spd="0" Int="25" Luc="0" ItemNum="#12R003"/>
+
+  </ShiPin>
+  <Item>
+    <Equip Name="一级炼器石" Rare="W" UserLevel="1" Intro="随处可见的素材，可以制造低级装备。" ItemNum="#13SC001"/>
+    <Equip Name="一级强化石" Rare="G" UserLevel="1" Intro="随处可见的素材，制造装备时添加此物品可以强化装备。" ItemNum="#13SC002"/>
+    <Equip Name="二级炼器石" Rare="G" UserLevel="5" Intro="随处可见的素材，可以制造低级装备。" ItemNum="#13SC003"/>
+    <Equip Name="二级强化石" Rare="B" UserLevel="5" Intro="随处可见的素材，制造装备时添加此物品可以强化装备。" ItemNum="#13SC004"/>
+    <Equip Name="三级炼器石" Rare="G" UserLevel="10" Intro="随处可见的素材，可以制造低级装备。" ItemNum="#13SC005"/>
+    <Equip Name="三级强化石" Rare="B" UserLevel="10" Intro="随处可见的素材，制造装备时添加此物品可以强化装备。" ItemNum="#13SC006"/>
+  </Item>
+
+  <Unused>
+    <Weapon>
+      <Equip Name="尼伯龙根之枪" Rare="R" UserLevel="50" Hp="0" Str="150" Spd="0" Int="0" Luc="0" ItemNum="#01R099"/>
+      <Equip Name="时之刃" Rare="R" UserLevel="40" Hp="0" Str="126" Spd="0" Int="0" Luc="0" ItemNum="#01R098"/>
+      <Equip Name="厄尔罗多匕首" Rare="R" UserLevel="28" Hp="0" Str="90" Spd="0" Int="0" Luc="-10" ItemNum="#01R097"/>
+
+      <Equip Name="凤凰枪" Rare="R" UserLevel="50" Hp="0" Str="148" Spd="0" Int="0" Luc="0" ItemNum="#01R017"/>
+      <Equip Name="凤凰枪" Rare="P" UserLevel="50" Hp="0" Str="125" Spd="0" Int="0" Luc="0" ItemNum="#01P017"/>
+      <Equip Name="凤凰枪" Rare="B" UserLevel="50" Hp="0" Str="114" Spd="0" Int="0" Luc="0" ItemNum="#01B017"/>
+      <Equip Name="凤凰枪" Rare="G" UserLevel="50" Hp="0" Str="89" Spd="0" Int="0" Luc="0" ItemNum="#01G017"/>
+      <Equip Name="凤凰枪" Rare="0" UserLevel="50" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01W017"/>
+
+      <Equip Name="战神之斧" Rare="R" UserLevel="46" Hp="0" Str="137" Spd="0" Int="0" Luc="0" ItemNum="#01R016"/>
+      <Equip Name="战神之斧" Rare="P" UserLevel="46" Hp="0" Str="118" Spd="0" Int="0" Luc="0" ItemNum="#01P016"/>
+      <Equip Name="战神之斧" Rare="B" UserLevel="46" Hp="0" Str="99" Spd="0" Int="0" Luc="0" ItemNum="#01B016"/>
+      <Equip Name="战神之斧" Rare="G" UserLevel="46" Hp="0" Str="83" Spd="0" Int="0" Luc="0" ItemNum="#01G016"/>
+      <Equip Name="战神之斧" Rare="0" UserLevel="46" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01W016"/>
+
+      <Equip Name="坎纳尔长枪" Rare="R" UserLevel="43" Hp="0" Str="130" Spd="0" Int="0" Luc="0" ItemNum="#01R015"/>
+      <Equip Name="坎纳尔长枪" Rare="P" UserLevel="43" Hp="0" Str="109" Spd="0" Int="0" Luc="0" ItemNum="#01P015"/>
+      <Equip Name="坎纳尔长枪" Rare="B" UserLevel="43" Hp="0" Str="94" Spd="0" Int="0" Luc="0" ItemNum="#01B015"/>
+      <Equip Name="坎纳尔长枪" Rare="G" UserLevel="43" Hp="0" Str="78" Spd="0" Int="0" Luc="0" ItemNum="#01G015"/>
+      <Equip Name="坎纳尔长枪" Rare="0" UserLevel="43" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01W015"/>
+
+      <Equip Name="遗忘邪杖" Rare="R" UserLevel="40" Hp="0" Str="122" Spd="0" Int="0" Luc="0" ItemNum="#01R014"/>
+      <Equip Name="遗忘邪杖" Rare="P" UserLevel="40" Hp="0" Str="98" Spd="0" Int="0" Luc="0" ItemNum="#01P014"/>
+      <Equip Name="遗忘邪杖" Rare="B" UserLevel="40" Hp="0" Str="87" Spd="0" Int="0" Luc="0" ItemNum="#01B014"/>
+      <Equip Name="遗忘邪杖" Rare="G" UserLevel="40" Hp="0" Str="73" Spd="0" Int="0" Luc="0" ItemNum="#01G014"/>
+      <Equip Name="遗忘邪杖" Rare="0" UserLevel="40" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01W014"/>
+
+      <Equip Name="泰坦阔斧" Rare="R" UserLevel="37" Hp="0" Str="114" Spd="0" Int="0" Luc="0" ItemNum="#01R013"/>
+      <Equip Name="泰坦阔斧" Rare="P" UserLevel="37" Hp="0" Str="94" Spd="0" Int="0" Luc="0" ItemNum="#01P013"/>
+      <Equip Name="泰坦阔斧" Rare="B" UserLevel="37" Hp="0" Str="82" Spd="0" Int="0" Luc="0" ItemNum="#01B013"/>
+      <Equip Name="泰坦阔斧" Rare="G" UserLevel="37" Hp="0" Str="65" Spd="0" Int="0" Luc="0" ItemNum="#01G013"/>
+      <Equip Name="泰坦阔斧" Rare="0" UserLevel="37" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01W013"/>
+
+      <Equip Name="空裂剑" Rare="R" UserLevel="34" Hp="0" Str="104" Spd="0" Int="0" Luc="0" ItemNum="#01R012"/>
+      <Equip Name="空裂剑" Rare="P" UserLevel="34" Hp="0" Str="86" Spd="0" Int="0" Luc="0" ItemNum="#01P012"/>
+      <Equip Name="空裂剑" Rare="B" UserLevel="34" Hp="0" Str="75" Spd="0" Int="0" Luc="0" ItemNum="#01B012"/>
+      <Equip Name="空裂剑" Rare="G" UserLevel="34" Hp="0" Str="60" Spd="0" Int="0" Luc="0" ItemNum="#01G012"/>
+      <Equip Name="空裂剑" Rare="0" UserLevel="34" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01W012"/>
+
+      <Equip Name="水之炎刃" Rare="R" UserLevel="31" Hp="0" Str="96" Spd="0" Int="0" Luc="0" ItemNum="#01R011"/>
+      <Equip Name="水之炎刃" Rare="P" UserLevel="31" Hp="0" Str="79" Spd="0" Int="0" Luc="0" ItemNum="#01P011"/>
+      <Equip Name="水之炎刃" Rare="B" UserLevel="31" Hp="0" Str="68" Spd="0" Int="0" Luc="0" ItemNum="#01B011"/>
+      <Equip Name="水之炎刃" Rare="G" UserLevel="31" Hp="0" Str="53" Spd="0" Int="0" Luc="0" ItemNum="#01G011"/>
+      <Equip Name="水之炎刃" Rare="0" UserLevel="31" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01W011"/>
+
+      <Equip Name="沙漠骨剑" Rare="R" UserLevel="28" Hp="0" Str="86" Spd="0" Int="0" Luc="0" ItemNum="#01R010"/>
+      <Equip Name="沙漠骨剑" Rare="P" UserLevel="28" Hp="0" Str="72" Spd="0" Int="0" Luc="0" ItemNum="#01P010"/>
+      <Equip Name="沙漠骨剑" Rare="B" UserLevel="28" Hp="0" Str="62" Spd="0" Int="0" Luc="0" ItemNum="#01B010"/>
+      <Equip Name="沙漠骨剑" Rare="G" UserLevel="28" Hp="0" Str="49" Spd="0" Int="0" Luc="0" ItemNum="#01G010"/>
+      <Equip Name="沙漠骨剑" Rare="W" UserLevel="28" Hp="0" Str="39" Spd="0" Int="0" Luc="0" ItemNum="#01W010"/>
+
+      <Equip Name="风尔德锤" Rare="R" UserLevel="25" Hp="0" Str="77" Spd="0" Int="0" Luc="0" ItemNum="#01R009"/>
+      <Equip Name="风尔德锤" Rare="P" UserLevel="25" Hp="0" Str="63" Spd="0" Int="0" Luc="0" ItemNum="#01P009"/>
+      <Equip Name="风尔德锤" Rare="B" UserLevel="25" Hp="0" Str="57" Spd="0" Int="0" Luc="0" ItemNum="#01B009"/>
+      <Equip Name="风尔德锤" Rare="G" UserLevel="25" Hp="0" Str="44" Spd="0" Int="0" Luc="0" ItemNum="#01G009"/>
+      <Equip Name="风尔德锤" Rare="W" UserLevel="25" Hp="0" Str="36" Spd="0" Int="0" Luc="0" ItemNum="#01W009"/>
+
+      <Equip Name="马尔菲秘法杖" Rare="R" UserLevel="22" Hp="0" Str="68" Spd="0" Int="0" Luc="0" ItemNum="#01R008"/>
+      <Equip Name="马尔菲秘法杖" Rare="P" UserLevel="22" Hp="0" Str="56" Spd="0" Int="0" Luc="0" ItemNum="#01P008"/>
+      <Equip Name="马尔菲秘法杖" Rare="B" UserLevel="22" Hp="0" Str="48" Spd="0" Int="0" Luc="0" ItemNum="#01B008"/>
+      <Equip Name="马尔菲秘法杖" Rare="G" UserLevel="22" Hp="0" Str="40" Spd="0" Int="0" Luc="0" ItemNum="#01G008"/>
+      <Equip Name="马尔菲秘法杖" Rare="W" UserLevel="22" Hp="0" Str="31" Spd="0" Int="0" Luc="0" ItemNum="#01W008"/>
+
+      <Equip Name="剥肉刀" Rare="0" UserLevel="19" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01R007"/>
+      <Equip Name="剥肉刀" Rare="P" UserLevel="19" Hp="0" Str="48" Spd="0" Int="0" Luc="0" ItemNum="#01P007"/>
+      <Equip Name="剥肉刀" Rare="B" UserLevel="19" Hp="0" Str="43" Spd="0" Int="0" Luc="0" ItemNum="#01B007"/>
+      <Equip Name="剥肉刀" Rare="G" UserLevel="19" Hp="0" Str="33" Spd="0" Int="0" Luc="0" ItemNum="#01G007"/>
+      <Equip Name="剥肉刀" Rare="W" UserLevel="19" Hp="0" Str="29" Spd="0" Int="0" Luc="0" ItemNum="#01W007"/>
+
+      <Equip Name="森林秘斧" Rare="0" UserLevel="16" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01R006"/>
+      <Equip Name="森林秘斧" Rare="P" UserLevel="16" Hp="0" Str="41" Spd="0" Int="0" Luc="0" ItemNum="#01P006"/>
+      <Equip Name="森林秘斧" Rare="B" UserLevel="16" Hp="0" Str="34" Spd="0" Int="0" Luc="0" ItemNum="#01B006"/>
+      <Equip Name="森林秘斧" Rare="G" UserLevel="16" Hp="0" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#01G006"/>
+      <Equip Name="森林秘斧" Rare="W" UserLevel="16" Hp="0" Str="26" Spd="0" Int="0" Luc="0" ItemNum="#01W006"/>
+
+      <Equip Name="马尔菲的剑" Rare="0" UserLevel="13" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01R005"/>
+      <Equip Name="马尔菲的剑" Rare="P" UserLevel="13" Hp="0" Str="31" Spd="0" Int="0" Luc="0" ItemNum="#01P005"/>
+      <Equip Name="马尔菲的剑" Rare="B" UserLevel="13" Hp="0" Str="27" Spd="0" Int="0" Luc="0" ItemNum="#01B005"/>
+      <Equip Name="马尔菲的剑" Rare="G" UserLevel="13" Hp="0" Str="25" Spd="0" Int="0" Luc="0" ItemNum="#01G005"/>
+      <Equip Name="马尔菲的剑" Rare="W" UserLevel="13" Hp="0" Str="21" Spd="0" Int="0" Luc="0" ItemNum="#01W005"/>
+
+      <Equip Name="七彩虹刃" Rare="0" UserLevel="10" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01R004"/>
+      <Equip Name="七彩虹刃" Rare="P" UserLevel="10" Hp="0" Str="26" Spd="0" Int="0" Luc="0" ItemNum="#01P004"/>
+      <Equip Name="七彩虹刃" Rare="B" UserLevel="10" Hp="0" Str="21" Spd="0" Int="0" Luc="0" ItemNum="#01B004"/>
+      <Equip Name="七彩虹刃" Rare="G" UserLevel="10" Hp="0" Str="18" Spd="0" Int="0" Luc="0" ItemNum="#01G004"/>
+      <Equip Name="七彩虹刃" Rare="W" UserLevel="10" Hp="0" Str="14" Spd="0" Int="0" Luc="0" ItemNum="#01W004"/>
+
+      <Equip Name="土著战斧" Rare="0" UserLevel="7" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01R003"/>
+      <Equip Name="土著战斧" Rare="P" UserLevel="7" Hp="0" Str="19" Spd="0" Int="0" Luc="0" ItemNum="#01P003"/>
+      <Equip Name="土著战斧" Rare="B" UserLevel="7" Hp="0" Str="16" Spd="0" Int="0" Luc="0" ItemNum="#01B003"/>
+      <Equip Name="土著战斧" Rare="G" UserLevel="7" Hp="0" Str="13" Spd="0" Int="0" Luc="0" ItemNum="#01G003"/>
+      <Equip Name="土著战斧" Rare="W" UserLevel="7" Hp="0" Str="9" Spd="0" Int="0" Luc="0" ItemNum="#01W003"/>
+
+      <Equip Name="牧师权杖" Rare="0" UserLevel="4" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01R002"/>
+      <Equip Name="牧师权杖" Rare="P" UserLevel="4" Hp="0" Str="11" Spd="0" Int="0" Luc="0" ItemNum="#01P002"/>
+      <Equip Name="牧师权杖" Rare="B" UserLevel="4" Hp="0" Str="9" Spd="0" Int="0" Luc="0" ItemNum="#01B002"/>
+      <Equip Name="牧师权杖" Rare="G" UserLevel="4" Hp="0" Str="7" Spd="0" Int="0" Luc="0" ItemNum="#01G002"/>
+      <Equip Name="牧师权杖" Rare="W" UserLevel="4" Hp="0" Str="5" Spd="0" Int="0" Luc="0" ItemNum="#01W002"/>
+
+      <Equip Name="生锈的刀" Rare="0" UserLevel="1" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#01R001"/>
+      <Equip Name="生锈的刀" Rare="P" UserLevel="1" Hp="0" Str="3" Spd="0" Int="0" Luc="0" ItemNum="#01P001"/>
+      <Equip Name="生锈的刀" Rare="B" UserLevel="1" Hp="0" Str="2" Spd="0" Int="0" Luc="0" ItemNum="#01B001"/>
+      <Equip Name="生锈的刀" Rare="G" UserLevel="1" Hp="0" Str="2" Spd="0" Int="0" Luc="0" ItemNum="#01G001"/>
+    </Weapon>
+    <ShangZhuang>
+      <Equip Name="尼伯龙根披风" Rare="R" UserLevel="50" Hp="250" Str="90" Spd="0" Int="0" Luc="5" ItemNum="#02R099"/>
+      <Equip Name="次元护甲" Rare="R" UserLevel="40" Hp="190" Str="70" Spd="0" Int="0" Luc="0" ItemNum="#02R098"/>
+      <Equip Name="厄尔罗多铠甲" Rare="R" UserLevel="28" Hp="140" Str="47" Spd="0" Int="0" Luc="-2" ItemNum="#02R097"/>
+
+      <Equip Name="凤羽披风" Rare="R" UserLevel="50" Hp="225" Str="75" Spd="0" Int="0" Luc="2" ItemNum="#02R011"/>
+      <Equip Name="凤羽披风" Rare="P" UserLevel="50" Hp="210" Str="60" Spd="0" Int="0" Luc="1" ItemNum="#02P011"/>
+      <Equip Name="凤羽披风" Rare="B" UserLevel="50" Hp="195" Str="50" Spd="0" Int="0" Luc="0" ItemNum="#02B011"/>
+      <Equip Name="凤羽披风" Rare="G" UserLevel="50" Hp="175" Str="40" Spd="0" Int="0" Luc="0" ItemNum="#02G011"/>
+      <Equip Name="凤羽披风" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#02W011"/>
+
+      <Equip Name="战神铠" Rare="R" UserLevel="45" Hp="202" Str="67" Spd="0" Int="0" Luc="0" ItemNum="#02R010"/>
+      <Equip Name="战神铠" Rare="P" UserLevel="45" Hp="189" Str="54" Spd="0" Int="0" Luc="0" ItemNum="#02P010"/>
+      <Equip Name="战神铠" Rare="B" UserLevel="45" Hp="175" Str="45" Spd="0" Int="0" Luc="0" ItemNum="#02B010"/>
+      <Equip Name="战神铠" Rare="G" UserLevel="45" Hp="157" Str="36" Spd="0" Int="0" Luc="0" ItemNum="#02G010"/>
+      <Equip Name="战神铠" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#02W010"/>
+
+      <Equip Name="坎纳尔肩甲" Rare="R" UserLevel="40" Hp="180" Str="60" Spd="0" Int="0" Luc="0" ItemNum="#02R009"/>
+      <Equip Name="坎纳尔肩甲" Rare="P" UserLevel="40" Hp="168" Str="48" Spd="0" Int="0" Luc="0" ItemNum="#02P009"/>
+      <Equip Name="坎纳尔肩甲" Rare="B" UserLevel="40" Hp="156" Str="40" Spd="0" Int="0" Luc="0" ItemNum="#02B009"/>
+      <Equip Name="坎纳尔肩甲" Rare="G" UserLevel="40" Hp="140" Str="32" Spd="0" Int="0" Luc="0" ItemNum="#02G009"/>
+      <Equip Name="坎纳尔肩甲" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#02W009"/>
+
+      <Equip Name="白骨之铠" Rare="R" UserLevel="35" Hp="157" Str="52" Spd="0" Int="0" Luc="0" ItemNum="#02R008"/>
+      <Equip Name="白骨之铠" Rare="P" UserLevel="35" Hp="147" Str="42" Spd="0" Int="0" Luc="0" ItemNum="#02P008"/>
+      <Equip Name="白骨之铠" Rare="B" UserLevel="35" Hp="136" Str="35" Spd="0" Int="0" Luc="0" ItemNum="#02B008"/>
+      <Equip Name="白骨之铠" Rare="G" UserLevel="35" Hp="122" Str="28" Spd="0" Int="0" Luc="0" ItemNum="#02G008"/>
+      <Equip Name="白骨之铠" Rare="W" UserLevel="35" Hp="105" Str="17" Spd="0" Int="0" Luc="0" ItemNum="#02W008"/>
+
+      <Equip Name="两极肩甲" Rare="R" UserLevel="30" Hp="135" Str="45" Spd="0" Int="0" Luc="0" ItemNum="#02R007"/>
+      <Equip Name="两极肩甲" Rare="P" UserLevel="30" Hp="126" Str="36" Spd="0" Int="0" Luc="0" ItemNum="#02P007"/>
+      <Equip Name="两极肩甲" Rare="B" UserLevel="30" Hp="117" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#02B007"/>
+      <Equip Name="两极肩甲" Rare="G" UserLevel="30" Hp="105" Str="24" Spd="0" Int="0" Luc="0" ItemNum="#02G007"/>
+      <Equip Name="两极肩甲" Rare="W" UserLevel="30" Hp="90" Str="15" Spd="0" Int="0" Luc="0" ItemNum="#02W007"/>
+
+      <Equip Name="泰坦石甲" Rare="R" UserLevel="25" Hp="112" Str="37" Spd="0" Int="0" Luc="0" ItemNum="#02R006"/>
+      <Equip Name="泰坦石甲" Rare="P" UserLevel="25" Hp="105" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#02P006"/>
+      <Equip Name="泰坦石甲" Rare="B" UserLevel="25" Hp="97" Str="25" Spd="0" Int="0" Luc="0" ItemNum="#02B006"/>
+      <Equip Name="泰坦石甲" Rare="G" UserLevel="25" Hp="87" Str="20" Spd="0" Int="0" Luc="0" ItemNum="#02G006"/>
+      <Equip Name="泰坦石甲" Rare="W" UserLevel="25" Hp="75" Str="12" Spd="0" Int="0" Luc="0" ItemNum="#02W006"/>
+
+      <Equip Name="忘却骨甲" Rare="R" UserLevel="20" Hp="95" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#02R005"/>
+      <Equip Name="忘却骨甲" Rare="P" UserLevel="20" Hp="84" Str="24" Spd="0" Int="0" Luc="0" ItemNum="#02P005"/>
+      <Equip Name="忘却骨甲" Rare="B" UserLevel="20" Hp="78" Str="20" Spd="0" Int="0" Luc="0" ItemNum="#02B005"/>
+      <Equip Name="忘却骨甲" Rare="G" UserLevel="20" Hp="70" Str="16" Spd="0" Int="0" Luc="0" ItemNum="#02G005"/>
+      <Equip Name="忘却骨甲" Rare="W" UserLevel="20" Hp="60" Str="10" Spd="0" Int="0" Luc="0" ItemNum="#02W005"/>
+
+      <Equip Name="裂空" Rare="R" UserLevel="15" Hp="67" Str="23" Spd="0" Int="0" Luc="0" ItemNum="#02R004"/>
+      <Equip Name="裂空" Rare="P" UserLevel="15" Hp="63" Str="18" Spd="0" Int="0" Luc="0" ItemNum="#02P004"/>
+      <Equip Name="裂空" Rare="B" UserLevel="15" Hp="58" Str="15" Spd="0" Int="0" Luc="0" ItemNum="#02B004"/>
+      <Equip Name="裂空" Rare="G" UserLevel="15" Hp="52" Str="12" Spd="0" Int="0" Luc="0" ItemNum="#02G004"/>
+      <Equip Name="裂空" Rare="W" UserLevel="15" Hp="45" Str="7" Spd="0" Int="0" Luc="0" ItemNum="#02W004"/>
+
+      <Equip Name="骑士链甲" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#02R003"/>
+      <Equip Name="骑士链甲" Rare="P" UserLevel="10" Hp="42" Str="15" Spd="0" Int="0" Luc="0" ItemNum="#02P003"/>
+      <Equip Name="骑士链甲" Rare="B" UserLevel="10" Hp="39" Str="12" Spd="0" Int="0" Luc="0" ItemNum="#02B003"/>
+      <Equip Name="骑士链甲" Rare="G" UserLevel="10" Hp="35" Str="8" Spd="0" Int="0" Luc="0" ItemNum="#02G003"/>
+      <Equip Name="骑士链甲" Rare="W" UserLevel="10" Hp="30" Str="5" Spd="0" Int="0" Luc="0" ItemNum="#02W003"/>
+
+      <Equip Name="土著战袍" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#02R002"/>
+      <Equip Name="土著战袍" Rare="P" UserLevel="5" Hp="23" Str="6" Spd="0" Int="0" Luc="0" ItemNum="#02P002"/>
+      <Equip Name="土著战袍" Rare="B" UserLevel="5" Hp="21" Str="5" Spd="0" Int="0" Luc="0" ItemNum="#02B002"/>
+      <Equip Name="土著战袍" Rare="G" UserLevel="5" Hp="19" Str="4" Spd="0" Int="0" Luc="0" ItemNum="#02G002"/>
+      <Equip Name="土著战袍" Rare="W" UserLevel="5" Hp="15" Str="2" Spd="0" Int="0" Luc="0" ItemNum="#02W002"/>
+
+      <Equip Name="蓑衣" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#02R001"/>
+      <Equip Name="蓑衣" Rare="P" UserLevel="1" Hp="5" Str="2" Spd="0" Int="0" Luc="0" ItemNum="#02P001"/>
+      <Equip Name="蓑衣" Rare="B" UserLevel="1" Hp="4" Str="1" Spd="0" Int="0" Luc="0" ItemNum="#02B001"/>
+      <Equip Name="蓑衣" Rare="G" UserLevel="1" Hp="4" Str="1" Spd="0" Int="0" Luc="0" ItemNum="#02G001"/>
+      <Equip Name="蓑衣" Rare="W" UserLevel="1" Hp="3" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#02W001"/>
+    </ShangZhuang>
+    <XiaZhuang>
+      <Equip Name="尼伯龙根护膝" Rare="R" UserLevel="50" Hp="210" Str="90" Spd="0" Int="0" Luc="5" ItemNum="#03R099" />
+      <Equip Name="次元靴" Rare="R" UserLevel="40" Hp="170" Str="70" Spd="0" Int="0" Luc="0" ItemNum="#03R098" />
+      <Equip Name="厄尔罗多足迹" Rare="R" UserLevel="28" Hp="125" Str="50" Spd="0" Int="0" Luc="-2" ItemNum="#03R097" />
+
+      <Equip Name="凰羽靴" Rare="R" UserLevel="50" Hp="200" Str="75" Spd="0" Int="0" Luc="2" ItemNum="#03R011" />
+      <Equip Name="凰羽靴" Rare="P" UserLevel="50" Hp="175" Str="60" Spd="0" Int="0" Luc="1" ItemNum="#03P011" />
+      <Equip Name="凰羽靴" Rare="B" UserLevel="50" Hp="155" Str="50" Spd="0" Int="0" Luc="0" ItemNum="#03B011" />
+      <Equip Name="凰羽靴" Rare="G" UserLevel="50" Hp="135" Str="40" Spd="0" Int="0" Luc="0" ItemNum="#03G011" />
+      <Equip Name="凰羽靴" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#03W011" />
+
+      <Equip Name="战神踏" Rare="R" UserLevel="45" Hp="180" Str="67" Spd="0" Int="0" Luc="0" ItemNum="#03R010" />
+      <Equip Name="战神踏" Rare="P" UserLevel="45" Hp="158" Str="54" Spd="0" Int="0" Luc="0" ItemNum="#03P010" />
+      <Equip Name="战神踏" Rare="B" UserLevel="45" Hp="124" Str="45" Spd="0" Int="0" Luc="0" ItemNum="#03B010" />
+      <Equip Name="战神踏" Rare="G" UserLevel="45" Hp="122" Str="36" Spd="0" Int="0" Luc="0" ItemNum="#03G010" />
+      <Equip Name="战神踏" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#03W010" />
+
+      <Equip Name="坎纳尔长靴" Rare="R" UserLevel="40" Hp="160" Str="60" Spd="0" Int="0" Luc="0" ItemNum="#03R009" />
+      <Equip Name="坎纳尔长靴" Rare="P" UserLevel="40" Hp="140" Str="48" Spd="0" Int="0" Luc="0" ItemNum="#03P009" />
+      <Equip Name="坎纳尔长靴" Rare="B" UserLevel="40" Hp="124" Str="40" Spd="0" Int="0" Luc="0" ItemNum="#03B009" />
+      <Equip Name="坎纳尔长靴" Rare="G" UserLevel="40" Hp="108" Str="32" Spd="0" Int="0" Luc="0" ItemNum="#03G009" />
+      <Equip Name="坎纳尔长靴" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#03W009" />
+
+      <Equip Name="白骨足迹" Rare="R" UserLevel="35" Hp="140" Str="52" Spd="0" Int="0" Luc="0" ItemNum="#03R008" />
+      <Equip Name="白骨足迹" Rare="P" UserLevel="35" Hp="123" Str="42" Spd="0" Int="0" Luc="0" ItemNum="#03P008" />
+      <Equip Name="白骨足迹" Rare="B" UserLevel="35" Hp="109" Str="35" Spd="0" Int="0" Luc="0" ItemNum="#03B008" />
+      <Equip Name="白骨足迹" Rare="G" UserLevel="35" Hp="95" Str="28" Spd="0" Int="0" Luc="0" ItemNum="#03G008" />
+      <Equip Name="白骨足迹" Rare="W" UserLevel="35" Hp="70" Str="17" Spd="0" Int="0" Luc="0" ItemNum="#03W008" />
+
+      <Equip Name="冰焰之力" Rare="R" UserLevel="30" Hp="120" Str="45" Spd="0" Int="0" Luc="0" ItemNum="#03R007" />
+      <Equip Name="冰焰之力" Rare="P" UserLevel="30" Hp="105" Str="36" Spd="0" Int="0" Luc="0" ItemNum="#03P007" />
+      <Equip Name="冰焰之力" Rare="B" UserLevel="30" Hp="93" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#03B007" />
+      <Equip Name="冰焰之力" Rare="G" UserLevel="30" Hp="81" Str="24" Spd="0" Int="0" Luc="0" ItemNum="#03G007" />
+      <Equip Name="冰焰之力" Rare="W" UserLevel="30" Hp="60" Str="15" Spd="0" Int="0" Luc="0" ItemNum="#03W007" />
+
+      <Equip Name="泰坦石靴" Rare="R" UserLevel="25" Hp="100" Str="37" Spd="0" Int="0" Luc="0" ItemNum="#03R006" />
+      <Equip Name="泰坦石靴" Rare="P" UserLevel="25" Hp="88" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#03P006" />
+      <Equip Name="泰坦石靴" Rare="B" UserLevel="25" Hp="78" Str="25" Spd="0" Int="0" Luc="0" ItemNum="#03B006" />
+      <Equip Name="泰坦石靴" Rare="G" UserLevel="25" Hp="68" Str="20" Spd="0" Int="0" Luc="0" ItemNum="#03G006" />
+      <Equip Name="泰坦石靴" Rare="W" UserLevel="25" Hp="50" Str="12" Spd="0" Int="0" Luc="0" ItemNum="#03W006" />
+
+      <Equip Name="诅咒骨鞋" Rare="R" UserLevel="20" Hp="80" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#03R005" />
+      <Equip Name="诅咒骨鞋" Rare="P" UserLevel="20" Hp="70" Str="24" Spd="0" Int="0" Luc="0" ItemNum="#03P005" />
+      <Equip Name="诅咒骨鞋" Rare="B" UserLevel="20" Hp="62" Str="20" Spd="0" Int="0" Luc="0" ItemNum="#03B005" />
+      <Equip Name="诅咒骨鞋" Rare="G" UserLevel="20" Hp="54" Str="16" Spd="0" Int="0" Luc="0" ItemNum="#03G005" />
+      <Equip Name="诅咒骨鞋" Rare="W" UserLevel="20" Hp="40" Str="10" Spd="0" Int="0" Luc="0" ItemNum="#03W005" />
+
+      <Equip Name="碎空" Rare="R" UserLevel="15" Hp="60" Str="23" Spd="0" Int="0" Luc="0" ItemNum="#03R004" />
+      <Equip Name="碎空" Rare="P" UserLevel="15" Hp="53" Str="18" Spd="0" Int="0" Luc="0" ItemNum="#03P004" />
+      <Equip Name="碎空" Rare="B" UserLevel="15" Hp="47" Str="15" Spd="0" Int="0" Luc="0" ItemNum="#03B004" />
+      <Equip Name="碎空" Rare="G" UserLevel="15" Hp="41" Str="12" Spd="0" Int="0" Luc="0" ItemNum="#03G004" />
+      <Equip Name="碎空" Rare="W" UserLevel="15" Hp="30" Str="7" Spd="0" Int="0" Luc="0" ItemNum="#03W004" />
+
+      <Equip Name="骑士铠靴" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#03R003" />
+      <Equip Name="骑士铠靴" Rare="P" UserLevel="10" Hp="35" Str="15" Spd="0" Int="0" Luc="0" ItemNum="#03P003" />
+      <Equip Name="骑士铠靴" Rare="B" UserLevel="10" Hp="31" Str="12" Spd="0" Int="0" Luc="0" ItemNum="#03B003" />
+      <Equip Name="骑士铠靴" Rare="G" UserLevel="10" Hp="27" Str="8" Spd="0" Int="0" Luc="0" ItemNum="#03G003" />
+      <Equip Name="骑士铠靴" Rare="W" UserLevel="10" Hp="20" Str="5" Spd="0" Int="0" Luc="0" ItemNum="#03W003" />
+
+      <Equip Name="土著战靴" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#03R002" />
+      <Equip Name="土著战靴" Rare="P" UserLevel="5" Hp="20" Str="6" Spd="0" Int="0" Luc="0" ItemNum="#03P002" />
+      <Equip Name="土著战靴" Rare="B" UserLevel="5" Hp="18" Str="5" Spd="0" Int="0" Luc="0" ItemNum="#03B002" />
+      <Equip Name="土著战靴" Rare="G" UserLevel="5" Hp="14" Str="4" Spd="0" Int="0" Luc="0" ItemNum="#03G002" />
+      <Equip Name="土著战靴" Rare="W" UserLevel="5" Hp="10" Str="2" Spd="0" Int="0" Luc="0" ItemNum="#03W002" />
+
+      <Equip Name="草鞋" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#03R001" />
+      <Equip Name="草鞋" Rare="P" UserLevel="1" Hp="4" Str="2" Spd="0" Int="0" Luc="0" ItemNum="#03P001" />
+      <Equip Name="草鞋" Rare="B" UserLevel="1" Hp="4" Str="1" Spd="0" Int="0" Luc="0" ItemNum="#03B001" />
+      <Equip Name="草鞋" Rare="G" UserLevel="1" Hp="3" Str="1" Spd="0" Int="0" Luc="0" ItemNum="#03G001" />
+      <Equip Name="草鞋" Rare="W" UserLevel="1" Hp="2" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#03W001" />
+
+    </XiaZhuang>
+    <ShiPin>
+      <Equip Name="尼伯龙根指环" Rare="R" UserLevel="50" Hp="120" Str="120" Spd="0" Int="0" Luc="5" ItemNum="#04R099" />
+      <Equip Name="异空间之心" Rare="R" UserLevel="40" Hp="90" Str="90" Spd="0" Int="0" Luc="0" ItemNum="#04R098" />
+      <Equip Name="厄尔罗多耳环" Rare="R" UserLevel="28" Hp="70" Str="70" Spd="0" Int="0" Luc="-2" ItemNum="#04R097" />
+
+      <Equip Name="红羽耳饰" Rare="R" UserLevel="50" Hp="100" Str="100" Spd="0" Int="0" Luc="2" ItemNum="#04R011" />
+      <Equip Name="红羽耳饰" Rare="P" UserLevel="50" Hp="90" Str="90" Spd="0" Int="0" Luc="1" ItemNum="#04P011" />
+      <Equip Name="红羽耳饰" Rare="B" UserLevel="50" Hp="80" Str="80" Spd="0" Int="0" Luc="0" ItemNum="#04B011" />
+      <Equip Name="红羽耳饰" Rare="G" UserLevel="50" Hp="65" Str="65" Spd="0" Int="0" Luc="0" ItemNum="#04G011" />
+      <Equip Name="红羽耳饰" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04W011" />
+
+      <Equip Name="战神环" Rare="R" UserLevel="45" Hp="90" Str="90" Spd="0" Int="0" Luc="0" ItemNum="#04R010" />
+      <Equip Name="战神环" Rare="P" UserLevel="45" Hp="81" Str="81" Spd="0" Int="0" Luc="0" ItemNum="#04P010" />
+      <Equip Name="战神环" Rare="B" UserLevel="45" Hp="72" Str="72" Spd="0" Int="0" Luc="0" ItemNum="#04B010" />
+      <Equip Name="战神环" Rare="G" UserLevel="45" Hp="59" Str="59" Spd="0" Int="0" Luc="0" ItemNum="#04G010" />
+      <Equip Name="战神环" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04W010" />
+
+      <Equip Name="坎纳尔手链" Rare="R" UserLevel="40" Hp="80" Str="80" Spd="0" Int="0" Luc="0" ItemNum="#04R009" />
+      <Equip Name="坎纳尔手链" Rare="P" UserLevel="40" Hp="72" Str="72" Spd="0" Int="0" Luc="0" ItemNum="#04P009" />
+      <Equip Name="坎纳尔手链" Rare="B" UserLevel="40" Hp="64" Str="64" Spd="0" Int="0" Luc="0" ItemNum="#04B009" />
+      <Equip Name="坎纳尔手链" Rare="G" UserLevel="40" Hp="52" Str="52" Spd="0" Int="0" Luc="0" ItemNum="#04G009" />
+      <Equip Name="坎纳尔手链" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04W009" />
+
+      <Equip Name="白骨戒" Rare="R" UserLevel="35" Hp="70" Str="70" Spd="0" Int="0" Luc="0" ItemNum="#04R008" />
+      <Equip Name="白骨戒" Rare="P" UserLevel="35" Hp="63" Str="63" Spd="0" Int="0" Luc="0" ItemNum="#04P008" />
+      <Equip Name="白骨戒" Rare="B" UserLevel="35" Hp="56" Str="56" Spd="0" Int="0" Luc="0" ItemNum="#04B008" />
+      <Equip Name="白骨戒" Rare="G" UserLevel="35" Hp="46" Str="46" Spd="0" Int="0" Luc="0" ItemNum="#04G008" />
+      <Equip Name="白骨戒" Rare="W" UserLevel="35" Hp="35" Str="35" Spd="0" Int="0" Luc="0" ItemNum="#04W008" />
+
+      <Equip Name="雷岩环" Rare="R" UserLevel="30" Hp="60" Str="60" Spd="0" Int="0" Luc="0" ItemNum="#04R007" />
+      <Equip Name="雷岩环" Rare="P" UserLevel="30" Hp="54" Str="54" Spd="0" Int="0" Luc="0" ItemNum="#04P007" />
+      <Equip Name="雷岩环" Rare="B" UserLevel="30" Hp="48" Str="48" Spd="0" Int="0" Luc="0" ItemNum="#04B007" />
+      <Equip Name="雷岩环" Rare="G" UserLevel="30" Hp="39" Str="39" Spd="0" Int="0" Luc="0" ItemNum="#04G007" />
+      <Equip Name="雷岩环" Rare="W" UserLevel="30" Hp="30" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#04W007" />
+
+      <Equip Name="泰坦之力" Rare="R" UserLevel="25" Hp="50" Str="50" Spd="0" Int="0" Luc="0" ItemNum="#04R006" />
+      <Equip Name="泰坦之力" Rare="P" UserLevel="25" Hp="45" Str="45" Spd="0" Int="0" Luc="0" ItemNum="#04P006" />
+      <Equip Name="泰坦之力" Rare="B" UserLevel="25" Hp="40" Str="40" Spd="0" Int="0" Luc="0" ItemNum="#04B006" />
+      <Equip Name="泰坦之力" Rare="G" UserLevel="25" Hp="33" Str="33" Spd="0" Int="0" Luc="0" ItemNum="#04G006" />
+      <Equip Name="泰坦之力" Rare="W" UserLevel="25" Hp="25" Str="25" Spd="0" Int="0" Luc="0" ItemNum="#04W006" />
+
+      <Equip Name="厄运骨链" Rare="R" UserLevel="20" Hp="40" Str="40" Spd="0" Int="0" Luc="0" ItemNum="#04R005" />
+      <Equip Name="厄运骨链" Rare="P" UserLevel="20" Hp="36" Str="36" Spd="0" Int="0" Luc="0" ItemNum="#04P005" />
+      <Equip Name="厄运骨链" Rare="B" UserLevel="20" Hp="32" Str="32" Spd="0" Int="0" Luc="0" ItemNum="#04B005" />
+      <Equip Name="厄运骨链" Rare="G" UserLevel="20" Hp="26" Str="26" Spd="0" Int="0" Luc="0" ItemNum="#04G005" />
+      <Equip Name="厄运骨链" Rare="W" UserLevel="20" Hp="20" Str="20" Spd="0" Int="0" Luc="0" ItemNum="#04W005" />
+
+      <Equip Name="恋空" Rare="R" UserLevel="15" Hp="30" Str="30" Spd="0" Int="0" Luc="0" ItemNum="#04R004" />
+      <Equip Name="恋空" Rare="P" UserLevel="15" Hp="27" Str="27" Spd="0" Int="0" Luc="0" ItemNum="#04P004" />
+      <Equip Name="恋空" Rare="B" UserLevel="15" Hp="24" Str="24" Spd="0" Int="0" Luc="0" ItemNum="#04B004" />
+      <Equip Name="恋空" Rare="G" UserLevel="15" Hp="20" Str="20" Spd="0" Int="0" Luc="0" ItemNum="#04G004" />
+      <Equip Name="恋空" Rare="W" UserLevel="15" Hp="15" Str="15" Spd="0" Int="0" Luc="0" ItemNum="#04W004" />
+
+      <Equip Name="骑士之心" Rare="0" UserLevel="0" Hp="0" Str="0" Spd="0" Int="0" Luc="0" ItemNum="#04R003" />
+      <Equip Name="骑士之心" Rare="P" UserLevel="10" Hp="18" Str="18" Spd="0" Int="0" Luc="0" ItemNum="#04P003" />
+      <Equip Name="骑士之心" Rare="B" UserLevel="10" Hp="16" Str="16" Spd="0" Int="0" Luc="0" ItemNum="#04B003" />
+      <Equip Name="骑士之心" Rare="G" UserLevel="10" Hp="13" Str="13" Spd="0" Int="0" Luc="0" ItemNum="#04G003" />
+    </ShiPin>
+    
+  </Unused>
+
+  <Allxishu>
+    <Weapon>
+      <Equip Rare="R" Hp="0" Str="3" Spd="0" Int="0" Luc="0" />
+      <Equip Rare="P" Hp="0" Str="2.5" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="B" Hp="0" Str="2.2" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="G" Hp="0" Str="1.8" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="W" Hp="0" Str="1.5" Spd="0" Int="0" Luc="0"/>
+    </Weapon>
+    <ShangZhuang>
+      <Equip Rare="R" Hp="4.5" Str="1.5" Spd="0" Int="0" Luc="0" />
+      <Equip Rare="P" Hp="4.2" Str="1.2" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="B" Hp="3.9" Str="1" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="G" Hp="3.5" Str="0.8" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="W" Hp="3" Str="0.5" Spd="0" Int="0" Luc="0"/>
+    </ShangZhuang>
+    <XiaZhuang>
+      <Equip Rare="R" Hp="4" Str="1.5" Spd="0" Int="0" Luc="0" />
+      <Equip Rare="P" Hp="3.5" Str="1.2" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="B" Hp="3.1" Str="1" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="G" Hp="2.7" Str="0.8" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="W" Hp="2" Str="0.5" Spd="0" Int="0" Luc="0"/>
+    </XiaZhuang>
+    <ShiPin>
+      <Equip Rare="R" Hp="2" Str="2" Spd="0" Int="0" Luc="0" />
+      <Equip Rare="P" Hp="1.8" Str="1.8" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="B" Hp="1.6" Str="1.6" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="G" Hp="1.3" Str="1.3" Spd="0" Int="0" Luc="0"/>
+      <Equip Rare="W" Hp="1" Str="1" Spd="0" Int="0" Luc="0"/>
+    </ShiPin>
+  </Allxishu>
+
+
+</AllEquip>

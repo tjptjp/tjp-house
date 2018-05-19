@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AllCharacter>
+  <Heros Name="马·克罗斯" Rare ="W" Race="人族" Zhiye ="法师“" ZhiyeShuxing="Int" Hp="20" HpLevel="7" Str="7" StrLevel="3" Spd="6" SpdLevel="2" Int="9" IntLevel="1.5" Luc="0" LucLevel="0" ChaNum="#RW0001"/>
+  <Heros Name="叶长青" Rare ="G" Race="人族" Zhiye ="剑士“" ZhiyeShuxing="Str" Hp="30" HpLevel="8" Str="10" StrLevel="3.5" Spd="10" SpdLevel="3.5" Int="9" IntLevel="1.5" Luc="0" LucLevel="0" ChaNum="#RW0002"/>
+  <Heros Name="艾蕾希亚" Rare ="B" Race="精灵族" Zhiye ="魔法师“" ZhiyeShuxing="Int" Hp="40" HpLevel="9" Str="10" StrLevel="3.5" Spd="10" SpdLevel="3.5" Int="16" IntLevel="4.5" Luc="0" LucLevel="0" ChaNum="#RW0003"/>
+  <Heros Name="战牙·血眼" Rare ="P" Race="兽族" Zhiye ="狂战士“" ZhiyeShuxing="Str" Hp="56" HpLevel="14" Str="20" StrLevel="6.5" Spd="16" SpdLevel="6" Int="6" IntLevel="2" Luc="0" LucLevel="0" ChaNum="#RW0004"/>
+  <Heros Name="青鳞的长风" Rare ="R" Race="龙族" Zhiye ="龙“" ZhiyeShuxing="All" Hp="70" HpLevel="19" Str="25" StrLevel="9" Spd="26" SpdLevel="9.5" Int="27" IntLevel="10" Luc="0" LucLevel="0" ChaNum="#RW0005"/>
+  <Heros Name="方轮" Rare ="G" Race="人族" Zhiye ="游侠“" ZhiyeShuxing="Spd" Hp="30" HpLevel="8" Str="8" StrLevel="2.5" Spd="11" SpdLevel="4" Int="9" IntLevel="1.5" Luc="0" LucLevel="0" ChaNum="#RW0006"/>
+  <Heros Name="科斯托" Rare ="P" Race="暗影族" Zhiye ="暗杀者“" ZhiyeShuxing="All" Hp="40" HpLevel="10" Str="22" StrLevel="7" Spd="22" SpdLevel="7" Int="22" IntLevel="7" Luc="0" LucLevel="0" ChaNum="#RW0007"/>
+  <Heros Name="卡斯卡特玛" Rare ="B" Race="石人族" Zhiye ="卫士“" ZhiyeShuxing="Str" Hp="70" HpLevel="19" Str="15" StrLevel="4" Spd="4" SpdLevel="1" Int="1" IntLevel="0.5" Luc="0" LucLevel="0" ChaNum="#RW0008"/>
+  <Heros Name="罗嘉·艾林" Rare ="B" Race="人族" Zhiye ="剑士“" ZhiyeShuxing="Str" Hp="20" HpLevel="12" Str="5" StrLevel="4.5" Spd="5" SpdLevel="4.5" Int="5" IntLevel="4.5" Luc="5" LucLevel="0.1" ChaNum="#RW0009"/>
+
+</AllCharacter>

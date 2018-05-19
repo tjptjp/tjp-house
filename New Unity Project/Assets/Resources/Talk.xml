@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Juqing>
+  <SJ id="DYZ-A1">
+    <Talk Num="1" Name="旁白" Speak="“欢迎启动命运程序。”" />
+    <Talk Num="2" Name="旁白" Speak="“本程序将会把您与随机异世界的某个人物联系在一起。”" />
+    <Talk Num="3" Name="旁白" Speak="“他可能是皇帝，也可能是平民。”" />
+    <Talk Num="4" Name="旁白" Speak="“但是他们都有一个共同点——”" />
+    <Talk Num="5" Name="旁白" Speak="“未来危机重重……”" />
+    <Talk Num="6" Name="旁白" Speak="“您愿意帮助他们，冲破命运的枷锁，改写属于他们的未来吗？”" />
+    <Talk Num="7" Name="旁白" Speak="“如果你愿意……”" />
+    <Talk Num="8" Name="旁白" Speak="“那对他们来说……”" />
+    <Talk Num="9" Name="旁白" Speak="“你，就是他们的——”" />
+    <Talk Num="10" Name="旁白" Speak="”命运之神。”" />
+    <Talk Num="11" Name="选项1" Speak="是的，我愿意。" />
+    <Talk Num="12" Name="选项2" Speak="请让我考虑下……" />
+  </SJ>
+  <SJ id="DYZ-A2">
+    <Talk Num="1" Name="玩家" Speak="好吧，让我体会一下被当作神的感觉吧" />
+    <Talk Num="2" Name="旁白" Speak="“那么……请稍后。“" />
+    <Talk Num="3" Name="旁白" Speak="“检测到一枚拥有强大能力的子戒”" />
+    <Talk Num="4" Name="旁白" Speak="“本程序正在建立与子戒的链接……“" />
+    <Talk Num="5" Name="旁白" Speak="“建立成功。“" />
+    <Talk Num="6" Name="旁白" Speak="“请开始——你的表演。“" />
+    <Talk Num="7" Name="大字" Speak="遥远时空的少年" />
+    <Talk Num="8" Name="少年" Speak="　　伟大的盖娅女神，请准许我死后与家人团聚吧……" />
+    <Talk Num="9" Name="旁白" Speak="月色下，一名少年背靠着树，低着头，双手握着什么东西，嘴里念叨着绝望的祷词。" />
+    <Talk Num="10" Name="少年" Speak="　　生命终有一死，唯有信仰永恒……" />
+    <Talk Num="11" Name="选项" Speak="你就这么想死吗？" />
+    <Talk Num="12" Name="玩家" Speak="你为何不爱惜你的性命？" />
+    <Talk Num="13" Name="旁白" Speak="似乎是被你的声音吓到，少年猛地抬起头，后脑勺重重地撞到树干上，疼的他直吸气" />
+    <Talk Num="14" Name="少年" Speak="　　这声音……你，请问你是谁？" />
+    <Talk Num="15" Name="选项" Speak="命运之神。" />
+    <Talk Num="16" Name="玩家" Speak="嗯……刚刚有人说我是命运之神。" />
+    <Talk Num="17" Name="玩家" Speak="或许我的到来，便是为了改变你的命运。" />
+    <Talk Num="18" Name="旁白" Speak="少年勉强地弯起嘴角，低下了头，眼眶逐渐湿润。" />
+    <Talk Num="19" Name="少年" Speak="　　谢谢，但我的命运已经无法更改……" />
+    <Talk Num="20" Name="少年" Speak="　　魔物杀了我所有家人……" />
+    <Talk Num="21" Name="少年" Speak="　　很快我也会死在它们手下……" />
+    <Talk Num="22" Name="少年" Speak="　　我感觉到它们离我越来越近，" />
+    <Talk Num="23" Name="少年" Speak="　　我……我想念我的姐姐……" />
+    <Talk Num="24" Name="旁白" Speak="几滴泪水落到泥土上，少年蜷缩着身体。" />
+    <Talk Num="25" Name="旁白" Speak="远处传来嘶吼声，少年的身躯抖了一下，抬起了头，" />
+    <Talk Num="26" Name="旁白" Speak="缓缓地把手心的戒指稳稳地戴在右手中指上，随后颤颤巍巍地拿起边上地短匕首" />
+    <Talk Num="27" Name="旁白" Speak="远处的嘶吼声越来越大声，他把匕首横在脖子前，" />
+    <Talk Num="28" Name="旁白" Speak="紧闭双眼，" />
+    <Talk Num="29" Name="旁白" Speak="紧咬牙关。" />
+    <Talk Num="30" Name="选项" Speak="停下！" />
+    <Talk Num="31" Name="玩家" Speak="停下吧，我觉得你不敢自杀吧，而且……" />
+    <Talk Num="32" Name="玩家" Speak="你失去的家人真的希望你就这样死去吗？" />
+    <Talk Num="33" Name="少年" Speak="　　哼呃啊！" />
+    <Talk Num="34" Name="旁白" Speak="少年疯狂地拿着匕首刺着泥土，不停地用后脑勺撞击着背后的树干。" />
+    <Talk Num="35" Name="旁白" Speak="越来越近的嘶吼声停了下来，那东西似乎被少年发出的声音所吸引。" />
+    <Talk Num="36" Name="少年" Speak="　　我……" />
+    <Talk Num="37" Name="少年" Speak="　　我该怎么办……才好……" />
+    <Talk Num="38" Name="旁白" Speak="少年渐渐平息下来，泪水却还是止不住地往下淌。" />
+    <Talk Num="39" Name="选项1" Speak="快跑吧。" />
+    <Talk Num="40" Name="选项2" Speak="拿起武器！" />
+  </SJ>
+  <SJ id="DYZ-B1">
+    <Talk Num="1" Name="玩家" Speak="请等会，我思考一下。" />
+    <Talk Num="2" Name="旁白" Speak="”当然，这种左右他人命运的事情，确实应该慎重考虑。”" />
+    <Talk Num="3" Name="旁白" Speak="”毕竟……”" />
+    <Talk Num="4" Name="旁白" Speak="”您可能拯救一个人，也可能毁灭一个人。”" />
+    <Talk Num="5" Name="旁白" Speak="”但是，如果您不插手，让他们按照既定的命运走下去”" />
+    <Talk Num="6" Name="旁白" Speak="”他们——必死无疑。”" />
+    <Talk Num="7" Name="选项" Speak="好吧，我愿意。" />
+  </SJ>
+  <SJ id="DYZ-B2-1">
+    <Talk Num="1" Name="玩家" Speak="快起来，有什么东西在接近。" />
+    <Talk Num="2" Name="旁白" Speak="少年点了点头，擦了擦眼泪，赶紧起身，没跑几步却突然倒在地上。" />
+    <Talk Num="3" Name="旁白" Speak="他的嘴唇轻微颤动，眼神中映射着他内心的恐惧。" />
+    <Talk Num="4" Name="少年" Speak="　　我脚软……" />
+    <Talk Num="5" Name="旁白" Speak="这时，树林里窜出一匹像狼的生物，对着少年发出低沉的嘶吼。" />
+    <Talk Num="6" Name="旁白" Speak="而少年则楞在那，没有任何反应。" />
+    <Talk Num="7" Name="旁白" Speak="那狼一步一步迈进，身子也越来越多低，看样子它随时都能发起进攻。" />
+  </SJ>
+  <SJ id="DYZ-B2-2">
+    <Talk Num="1" Name="玩家" Speak="有什么东西在接近，快握紧武器！" />
+    <Talk Num="2" Name="旁白" Speak="少年点了点头，擦了擦眼泪，握紧了武器，" />
+    <Talk Num="3" Name="旁白" Speak="大概是腿软，他只能扶着树干慢慢起身。" />
+    <Talk Num="4" Name="旁白" Speak="他的嘴唇轻微颤动，眼神中映射着他内心的恐惧。" />
+    <Talk Num="5" Name="旁白" Speak="这时，树林里窜出一匹像狼的生物，对着少年发出低沉的嘶吼。" />
+    <Talk Num="6" Name="旁白" Speak="而少年看着那狼，楞在那，没有任何反应。" />
+    <Talk Num="7" Name="旁白" Speak="那狼一步一步迈进，身子也越来越多低，看样子它随时都能发起进攻。" />
+  </SJ>
+  <SJ id="DYZ-A3" >
+    <Talk Num="1" Name="选项" Speak="快攻击！或者你快跑！" />
+    <Talk Num="2" Name="玩家" Speak="看准机会用匕首杀了他！或者你现在就跑！" />
+    <Talk Num="3" Name="旁白" Speak="少年没有任何回应，就楞在那。" />
+    <Talk Num="4" Name="旁白" Speak="此时狼的身躯微微后缩，猛地扑了上来" />
+    <Talk Num="5" Name="选项" Speak="小心！" />
+    <Talk Num="6" Name="玩家" Speak="小心！" />
+    <Talk Num="7" Name="少年" Speak="　　呃啊！" />
+    <Talk Num="8" Name="旁白" Speak="少年用匕首准确地扎中了狼的眼睛。" />
+    <Talk Num="9" Name="旁白" Speak="狼发出一声悲鸣，倒在地上。" />
+    <Talk Num="10" Name="少年" Speak="　　啊啊！！！" />
+    <Talk Num="11" Name="旁白" Speak="少年并没有放过重伤的狼，拔出匕首，再狠狠地扎回去，如此反复。" />
+    <Talk Num="12" Name="旁白" Speak="此时的他，看起来就像个疯子。" />
+    <Talk Num="13" Name="旁白" Speak="地上全是黑红色的血，狼已经死去，而少年还在一遍又一遍地扎着狼尸。" />
+    <Talk Num="14" Name="旁白" Speak="只是速度越来越慢。" />
+    <Talk Num="15" Name="选项" Speak="停手吧……" />
+    <Talk Num="16" Name="玩家" Speak="它已经死了，停下吧。" />
+    <Talk Num="17" Name="旁白" Speak="少年喘着粗气，看着死去的狼，满脸的震惊，似乎不敢相信是自己杀的。" />
+    <Talk Num="18" Name="少年" Speak="　　我做到了……我做到了……姐姐……" />
+    <Talk Num="19" Name="旁白" Speak="话音未落，少年仰倒在地上，似乎失去了意识。" />
+    <Talk Num="20" Name="身穿重甲的士兵" Speak="　　这有一个孩子！" />
+    <Talk Num="21" Name="旁白" Speak="突然出现的士兵探了下少年的气息。" />
+    <Talk Num="22" Name="身穿重甲的士兵" Speak="　　牧师！牧师快来！这还有活人！" />
+    <Talk Num="23" Name="旁白" Speak="……" />
+    <Talk Num="24" Name="大字" Speak="翌日" />
+    <Talk Num="25" Name="旁白" Speak="这里是卡斯城的教堂，少年昨日昏迷后被送来这里休养。" />
+    <Talk Num="26" Name="少年" Speak="　　那个……命运之神……？你还在吗？" />
+    <Talk Num="27" Name="选项" Speak="在。" />
+    <Talk Num="28" Name="少年" Speak="　　嗯，说起来，我还不知道你名字呢。" />
+    <Talk Num="29" Name="少年" Speak="　　尊敬的神，我叫罗嘉，罗嘉·艾林。" />
+    <Talk Num="30" Name="少年" Speak="　　我……你说过能改变我的命运……" />
+    <Talk Num="31" Name="少年" Speak="　　我想复仇……你能指导我变强吗？" />
+    <Talk Num="32" Name="少年" Speak="　　还不断有伤者被送来这里，我觉得我好的差不多了。" />
+    <Talk Num="33" Name="少年" Speak="　　或许我该去卡斯城里逛逛？" />
+  </SJ>
+</Juqing>
